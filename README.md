@@ -55,6 +55,8 @@ Similar to that of 1.1 and 1.2, however, this time the timings are recorded in a
 
 #### Question 2
 
+**Disclaimer**: You could alter the number of clients but if you wanted to do that, it would be wise to change some other timings like the amount of sleep time as well as the periods in which it sends the check coordination message. This is because the system is engineered such that the coordination messages are sent after a certain event to show us the outcome.
+
 #### Question 2.1
 ##### Best
 
